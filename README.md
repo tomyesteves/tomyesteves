@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tomyesteves
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python Programming
-- 💞️ I’m looking to collaborate on everything I can
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: estevestomas27@gmail.com
