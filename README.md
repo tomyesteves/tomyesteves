@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on everything I can
-- 📫 How to reach me, mail: estevestomas27@gmail.com
+- 📫 How to reach me: estevestomas27@gmail.com
